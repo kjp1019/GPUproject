@@ -61,12 +61,7 @@
 ```
 
 ## 실행 방벙
-mkdir build && cd build
-cmake ..
-make
-./project
-
-- 명사: 약 40%
-- 동사: 약 30%
-- 형용사: 약 20%
-- 기타: 약 10%
+- mkdir build && cd build
+- cmake ..
+- make
+- ./project
